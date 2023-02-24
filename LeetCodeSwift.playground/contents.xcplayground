@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='2. Add Two Numbers'/>
+        <page name='13. RomanToInt'/>
+        <page name='21. Merge Two Sorted Lists'/>
+        <page name='33. Search in Rotated Sorted Array'/>
+        <page name='34. Find First and Last Position of Element in Sorted Array'/>
+        <page name='70. Climbing Stairs'/>
+        <page name='98. Validate Binary Search Tree'/>
+        <page name='102. Binary Tree Level Order Traversal'/>
+        <page name='121. Best Time to Buy and Sell Stock'/>
+        <page name='142. Linked List Cycle II'/>
+        <page name='200. Number of Islands'/>
+        <page name='205. Isomorphic Strings'/>
+        <page name='206. Reverse Linked List'/>
+        <page name='235. Lowest Common Ancestor of a Binary Search Tree'/>
+        <page name='242. Valid Anagram'/>
+        <page name='278. First Bad Version'/>
+        <page name='392. Is Subsequence'/>
+        <page name='409. Longest Palindrome'/>
+        <page name='509. Fibonacci Number'/>
+        <page name='589. N-ary Tree Preorder Traversal'/>
+        <page name='704. Binary Search'/>
+        <page name='724. Find Pivot Index'/>
+        <page name='733. Flood Fill'/>
+        <page name='876. Middle of the Linked List'/>
+        <page name='1480. Running Sum of 1d Array'/>
+        <page name='74. Search a 2D Matrix'/>
+    </pages>
 </playground>
