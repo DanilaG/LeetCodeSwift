@@ -29,5 +29,6 @@
         <page name='74. Search a 2D Matrix'/>
         <page name='153. Find Minimum in Rotated Sorted Array'/>
         <page name='162. Find Peak Element'/>
+        <page name='82. Remove Duplicates from Sorted List II'/>
     </pages>
 </playground>
