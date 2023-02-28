@@ -30,5 +30,6 @@
         <page name='153. Find Minimum in Rotated Sorted Array'/>
         <page name='162. Find Peak Element'/>
         <page name='82. Remove Duplicates from Sorted List II'/>
+        <page name='15. 3Sum'/>
     </pages>
 </playground>
