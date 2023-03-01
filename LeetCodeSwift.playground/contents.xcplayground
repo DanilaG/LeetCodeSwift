@@ -31,5 +31,6 @@
         <page name='162. Find Peak Element'/>
         <page name='82. Remove Duplicates from Sorted List II'/>
         <page name='15. 3Sum'/>
+        <page name='844. Backspace String Compare'/>
     </pages>
 </playground>
