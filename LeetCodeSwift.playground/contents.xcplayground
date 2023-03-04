@@ -34,5 +34,6 @@
         <page name='844. Backspace String Compare'/>
         <page name='986. Interval List Intersections'/>
         <page name='11. Container With Most Water'/>
+        <page name='438. Find All Anagrams in a String'/>
     </pages>
 </playground>
