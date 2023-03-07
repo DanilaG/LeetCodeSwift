@@ -37,5 +37,6 @@
         <page name='438. Find All Anagrams in a String'/>
         <page name='713. Subarray Product Less Than K'/>
         <page name='209. Minimum Size Subarray Sum'/>
+        <page name='547. Number of Provinces'/>
     </pages>
 </playground>
