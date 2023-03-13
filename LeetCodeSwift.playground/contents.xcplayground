@@ -43,5 +43,6 @@
         <page name='1091. Shortest Path in Binary Matrix'/>
         <page name='130. Surrounded Regions'/>
         <page name='797. All Paths From Source to Target'/>
+        <page name='78. Subsets'/>
     </pages>
 </playground>
