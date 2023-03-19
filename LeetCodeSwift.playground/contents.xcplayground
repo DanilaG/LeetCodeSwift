@@ -49,5 +49,6 @@
         <page name='39. Combination Sum'/>
         <page name='40. Combination Sum II'/>
         <page name='17. Letter Combinations of a Phone Number'/>
+        <page name='22. Generate Parentheses'/>
     </pages>
 </playground>
