@@ -50,5 +50,6 @@
         <page name='40. Combination Sum II'/>
         <page name='17. Letter Combinations of a Phone Number'/>
         <page name='22. Generate Parentheses'/>
+        <page name='79. Word Search'/>
     </pages>
 </playground>
