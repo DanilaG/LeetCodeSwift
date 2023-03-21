@@ -51,5 +51,6 @@
         <page name='17. Letter Combinations of a Phone Number'/>
         <page name='22. Generate Parentheses'/>
         <page name='79. Word Search'/>
+        <page name='213. House Robber II'/>
     </pages>
 </playground>
