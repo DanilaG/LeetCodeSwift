@@ -56,5 +56,6 @@
         <page name='45. Jump Game II'/>
         <page name='62. Unique Paths'/>
         <page name='5. Longest Palindromic Substring'/>
+        <page name='413. Arithmetic Slices'/>
     </pages>
 </playground>
