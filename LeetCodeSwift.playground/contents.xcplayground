@@ -57,5 +57,6 @@
         <page name='62. Unique Paths'/>
         <page name='5. Longest Palindromic Substring'/>
         <page name='413. Arithmetic Slices'/>
+        <page name='91. Decode Ways'/>
     </pages>
 </playground>
