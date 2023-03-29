@@ -59,5 +59,6 @@
         <page name='413. Arithmetic Slices'/>
         <page name='91. Decode Ways'/>
         <page name='139. Word Break'/>
+        <page name='300. Longest Increasing Subsequence'/>
     </pages>
 </playground>
