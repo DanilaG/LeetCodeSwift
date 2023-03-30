@@ -60,5 +60,6 @@
         <page name='91. Decode Ways'/>
         <page name='139. Word Break'/>
         <page name='300. Longest Increasing Subsequence'/>
+        <page name='673. Number of Longest Increasing Subsequence'/>
     </pages>
 </playground>
