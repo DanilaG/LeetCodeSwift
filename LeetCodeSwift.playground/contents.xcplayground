@@ -63,5 +63,6 @@
         <page name='673. Number of Longest Increasing Subsequence'/>
         <page name='1143. Longest Common Subsequence'/>
         <page name='583. Delete Operation for Two Strings'/>
+        <page name='72. Edit Distance'/>
     </pages>
 </playground>
