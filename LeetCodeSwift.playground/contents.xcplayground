@@ -64,5 +64,6 @@
         <page name='1143. Longest Common Subsequence'/>
         <page name='583. Delete Operation for Two Strings'/>
         <page name='72. Edit Distance'/>
+        <page name='322. Coin Change'/>
     </pages>
 </playground>
