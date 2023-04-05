@@ -66,5 +66,6 @@
         <page name='72. Edit Distance'/>
         <page name='322. Coin Change'/>
         <page name='343. Integer Break'/>
+        <page name='201. Bitwise AND of Numbers Range'/>
     </pages>
 </playground>
