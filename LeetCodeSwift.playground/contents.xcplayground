@@ -67,5 +67,6 @@
         <page name='322. Coin Change'/>
         <page name='343. Integer Break'/>
         <page name='201. Bitwise AND of Numbers Range'/>
+        <page name='384. Shuffle an Array'/>
     </pages>
 </playground>
