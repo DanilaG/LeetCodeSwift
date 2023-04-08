@@ -69,5 +69,6 @@
         <page name='201. Bitwise AND of Numbers Range'/>
         <page name='384. Shuffle an Array'/>
         <page name='202. Happy Number'/>
+        <page name='149. Max Points on a Line'/>
     </pages>
 </playground>
