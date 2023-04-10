@@ -71,5 +71,6 @@
         <page name='202. Happy Number'/>
         <page name='149. Max Points on a Line'/>
         <page name='136. Single Number'/>
+        <page name='169. Majority Element'/>
     </pages>
 </playground>
