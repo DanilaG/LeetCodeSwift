@@ -73,5 +73,6 @@
         <page name='136. Single Number'/>
         <page name='169. Majority Element'/>
         <page name='75. Sort Colors'/>
+        <page name='9. Palindrome Number'/>
     </pages>
 </playground>
