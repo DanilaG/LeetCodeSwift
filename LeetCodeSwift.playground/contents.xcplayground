@@ -74,5 +74,6 @@
         <page name='169. Majority Element'/>
         <page name='75. Sort Colors'/>
         <page name='9. Palindrome Number'/>
+        <page name='20. Valid Parentheses'/>
     </pages>
 </playground>
