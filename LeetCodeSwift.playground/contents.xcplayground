@@ -75,5 +75,6 @@
         <page name='75. Sort Colors'/>
         <page name='9. Palindrome Number'/>
         <page name='20. Valid Parentheses'/>
+        <page name='67. Add Binary'/>
     </pages>
 </playground>
