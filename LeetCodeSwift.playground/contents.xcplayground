@@ -76,5 +76,6 @@
         <page name='9. Palindrome Number'/>
         <page name='20. Valid Parentheses'/>
         <page name='67. Add Binary'/>
+        <page name='26. Remove Duplicates from Sorted Array'/>
     </pages>
 </playground>
