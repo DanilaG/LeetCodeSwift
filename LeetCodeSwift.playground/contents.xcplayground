@@ -78,5 +78,6 @@
         <page name='67. Add Binary'/>
         <page name='26. Remove Duplicates from Sorted Array'/>
         <page name='66. Plus One'/>
+        <page name='69. Sqrt(x)'/>
     </pages>
 </playground>
