@@ -79,5 +79,6 @@
         <page name='26. Remove Duplicates from Sorted Array'/>
         <page name='66. Plus One'/>
         <page name='69. Sqrt(x)'/>
+        <page name='112. Path Sum'/>
     </pages>
 </playground>
