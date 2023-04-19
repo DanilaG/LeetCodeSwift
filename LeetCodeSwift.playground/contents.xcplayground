@@ -80,5 +80,6 @@
         <page name='66. Plus One'/>
         <page name='69. Sqrt(x)'/>
         <page name='112. Path Sum'/>
+        <page name='94. Binary Tree Inorder Traversal'/>
     </pages>
 </playground>
