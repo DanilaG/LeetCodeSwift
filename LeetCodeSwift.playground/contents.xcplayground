@@ -82,5 +82,6 @@
         <page name='112. Path Sum'/>
         <page name='94. Binary Tree Inorder Traversal'/>
         <page name='111. Minimum Depth of Binary Tree'/>
+        <page name='104. Maximum Depth of Binary Tree'/>
     </pages>
 </playground>
