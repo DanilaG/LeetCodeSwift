@@ -85,5 +85,6 @@
         <page name='104. Maximum Depth of Binary Tree'/>
         <page name='3. Longest Substring Without Repeating Characters'/>
         <page name='83. Remove Duplicates from Sorted List'/>
+        <page name='100. Same Tree'/>
     </pages>
 </playground>
