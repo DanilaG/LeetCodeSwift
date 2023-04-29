@@ -90,5 +90,6 @@
         <page name='1. Two Sum'/>
         <page name='4. Median of Two Sorted Arrays'/>
         <page name='14. Longest Common Prefix'/>
+        <page name='27. Remove Element'/>
     </pages>
 </playground>
