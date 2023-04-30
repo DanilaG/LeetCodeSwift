@@ -91,5 +91,6 @@
         <page name='4. Median of Two Sorted Arrays'/>
         <page name='14. Longest Common Prefix'/>
         <page name='27. Remove Element'/>
+        <page name='58. Length of Last Word'/>
     </pages>
 </playground>
