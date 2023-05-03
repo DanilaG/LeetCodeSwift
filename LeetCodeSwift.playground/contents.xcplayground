@@ -94,5 +94,6 @@
         <page name='58. Length of Last Word'/>
         <page name='28. Find the Index of the First Occurrence in a String'/>
         <page name='35. Search Insert Position'/>
+        <page name='6. Zigzag Conversion'/>
     </pages>
 </playground>
