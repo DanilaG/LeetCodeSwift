@@ -95,5 +95,6 @@
         <page name='28. Find the Index of the First Occurrence in a String'/>
         <page name='35. Search Insert Position'/>
         <page name='6. Zigzag Conversion'/>
+        <page name='7. Reverse Integer'/>
     </pages>
 </playground>
