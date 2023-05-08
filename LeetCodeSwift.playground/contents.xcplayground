@@ -98,5 +98,6 @@
         <page name='7. Reverse Integer'/>
         <page name='125. Valid Palindrome'/>
         <page name='141. Linked List Cycle'/>
+        <page name='110. Balanced Binary Tree'/>
     </pages>
 </playground>
