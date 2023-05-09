@@ -99,5 +99,6 @@
         <page name='125. Valid Palindrome'/>
         <page name='141. Linked List Cycle'/>
         <page name='110. Balanced Binary Tree'/>
+        <page name='118. Pascal&apos;s Triangle'/>
     </pages>
 </playground>
