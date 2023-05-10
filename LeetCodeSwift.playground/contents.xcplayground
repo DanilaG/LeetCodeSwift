@@ -100,5 +100,6 @@
         <page name='141. Linked List Cycle'/>
         <page name='110. Balanced Binary Tree'/>
         <page name='118. Pascal&apos;s Triangle'/>
+        <page name='160. Intersection of Two Linked Lists'/>
     </pages>
 </playground>
