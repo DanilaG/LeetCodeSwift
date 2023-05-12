@@ -102,5 +102,6 @@
         <page name='118. Pascal&apos;s Triangle'/>
         <page name='160. Intersection of Two Linked Lists'/>
         <page name='1827. Minimum Operations to Make the Array Increasing'/>
+        <page name='1337. The K Weakest Rows in a Matrix'/>
     </pages>
 </playground>
