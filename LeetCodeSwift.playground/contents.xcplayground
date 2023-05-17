@@ -107,5 +107,6 @@
         <page name='2652. Sum Multiples'/>
         <page name='1721. Swapping Nodes in a Linked List'/>
         <page name='217. Contains Duplicate'/>
+        <page name='2130. Maximum Twin Sum of a Linked List '/>
     </pages>
 </playground>
