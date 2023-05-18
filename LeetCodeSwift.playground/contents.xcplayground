@@ -108,5 +108,6 @@
         <page name='1721. Swapping Nodes in a Linked List'/>
         <page name='217. Contains Duplicate'/>
         <page name='2130. Maximum Twin Sum of a Linked List '/>
+        <page name='1557. Minimum Number of Vertices to Reach All Nodes'/>
     </pages>
 </playground>
