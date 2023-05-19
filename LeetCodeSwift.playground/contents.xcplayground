@@ -109,5 +109,6 @@
         <page name='217. Contains Duplicate'/>
         <page name='2130. Maximum Twin Sum of a Linked List '/>
         <page name='1557. Minimum Number of Vertices to Reach All Nodes'/>
+        <page name='785. Is Graph Bipartite? '/>
     </pages>
 </playground>
