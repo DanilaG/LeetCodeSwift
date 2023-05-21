@@ -111,5 +111,6 @@
         <page name='1557. Minimum Number of Vertices to Reach All Nodes'/>
         <page name='785. Is Graph Bipartite? '/>
         <page name='399. Evaluate Division'/>
+        <page name='934. Shortest Bridge'/>
     </pages>
 </playground>
