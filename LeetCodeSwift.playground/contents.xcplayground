@@ -112,5 +112,6 @@
         <page name='785. Is Graph Bipartite? '/>
         <page name='399. Evaluate Division'/>
         <page name='934. Shortest Bridge'/>
+        <page name='347. Top K Frequent Elements'/>
     </pages>
 </playground>
