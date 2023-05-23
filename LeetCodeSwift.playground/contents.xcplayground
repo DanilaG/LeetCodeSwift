@@ -113,5 +113,6 @@
         <page name='399. Evaluate Division'/>
         <page name='934. Shortest Bridge'/>
         <page name='347. Top K Frequent Elements'/>
+        <page name='703. Kth Largest Element in a Stream '/>
     </pages>
 </playground>
