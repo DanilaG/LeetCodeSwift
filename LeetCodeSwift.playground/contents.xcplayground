@@ -114,5 +114,7 @@
         <page name='934. Shortest Bridge'/>
         <page name='347. Top K Frequent Elements'/>
         <page name='703. Kth Largest Element in a Stream '/>
+        <page name='2542. Maximum Subsequence Score '/>
+        <page name='837. New 21 Game'/>
     </pages>
 </playground>
