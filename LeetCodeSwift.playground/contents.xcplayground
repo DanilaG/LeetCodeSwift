@@ -119,5 +119,7 @@
         <page name='1140. Stone Game II'/>
         <page name='231. Power of Two'/>
         <page name='500. Keyboard Row'/>
+        <page name='226. Invert Binary Tree'/>
+        <page name='563. Binary Tree Tilt'/>
     </pages>
 </playground>
