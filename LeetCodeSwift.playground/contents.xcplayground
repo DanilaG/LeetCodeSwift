@@ -123,5 +123,6 @@
         <page name='563. Binary Tree Tilt'/>
         <page name='896. Monotonic Array'/>
         <page name='989. Add to Array-Form of Integer'/>
+        <page name='1528. Shuffle String'/>
     </pages>
 </playground>
