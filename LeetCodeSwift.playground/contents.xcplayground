@@ -124,5 +124,6 @@
         <page name='896. Monotonic Array'/>
         <page name='989. Add to Array-Form of Integer'/>
         <page name='1528. Shuffle String'/>
+        <page name='1672. Richest Customer Wealth'/>
     </pages>
 </playground>
