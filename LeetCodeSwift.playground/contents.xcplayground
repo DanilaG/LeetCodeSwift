@@ -127,5 +127,6 @@
         <page name='1672. Richest Customer Wealth'/>
         <page name='1389. Create Target Array in the Given Order'/>
         <page name='1436. Destination City'/>
+        <page name='1413. Minimum Value to Get Positive Step by Step Sum'/>
     </pages>
 </playground>
