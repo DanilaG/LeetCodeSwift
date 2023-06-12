@@ -131,5 +131,8 @@
         <page name='109. Convert Sorted List to Binary Search Tree'/>
         <page name='165. Compare Version Numbers'/>
         <page name='1450. Number of Students Doing Homework at a Given Time'/>
+        <page name='1146. Snapshot Array'/>
+        <page name='1588. Sum of All Odd Length Subarrays'/>
+        <page name='228. Summary Ranges'/>
     </pages>
 </playground>
