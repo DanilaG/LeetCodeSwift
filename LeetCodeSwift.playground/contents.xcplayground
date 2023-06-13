@@ -134,5 +134,6 @@
         <page name='1146. Snapshot Array'/>
         <page name='1588. Sum of All Odd Length Subarrays'/>
         <page name='228. Summary Ranges'/>
+        <page name='2352. Equal Row and Column Pairs'/>
     </pages>
 </playground>
