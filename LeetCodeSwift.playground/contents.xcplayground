@@ -136,5 +136,7 @@
         <page name='228. Summary Ranges'/>
         <page name='2352. Equal Row and Column Pairs'/>
         <page name='530. Minimum Absolute Difference in BST'/>
+        <page name='1161. Maximum Level Sum of a Binary Tree '/>
+        <page name='264. Ugly Number II'/>
     </pages>
 </playground>
