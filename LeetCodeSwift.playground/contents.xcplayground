@@ -138,5 +138,6 @@
         <page name='530. Minimum Absolute Difference in BST'/>
         <page name='1161. Maximum Level Sum of a Binary Tree '/>
         <page name='264. Ugly Number II'/>
+        <page name='394. Decode String'/>
     </pages>
 </playground>
