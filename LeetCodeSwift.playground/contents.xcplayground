@@ -140,5 +140,7 @@
         <page name='264. Ugly Number II'/>
         <page name='394. Decode String'/>
         <page name='518. Coin Change II'/>
+        <page name='309. Best Time to Buy and Sell Stock with Cooldown'/>
+        <page name='1732. Find the Highest Altitude'/>
     </pages>
 </playground>
