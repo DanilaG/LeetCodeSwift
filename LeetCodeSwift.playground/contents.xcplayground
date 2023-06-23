@@ -143,5 +143,7 @@
         <page name='309. Best Time to Buy and Sell Stock with Cooldown'/>
         <page name='1732. Find the Highest Altitude'/>
         <page name='2090. K Radius Subarray Averages'/>
+        <page name='714. Best Time to Buy and Sell Stock with Transaction Fee'/>
+        <page name='1464. Maximum Product of Two Elements in an Array'/>
     </pages>
 </playground>
