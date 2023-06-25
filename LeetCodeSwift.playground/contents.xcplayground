@@ -146,5 +146,6 @@
         <page name='714. Best Time to Buy and Sell Stock with Transaction Fee'/>
         <page name='1464. Maximum Product of Two Elements in an Array'/>
         <page name='2011. Final Value of Variable After Performing Operations'/>
+        <page name='2114. Maximum Number of Words Found in Sentences'/>
     </pages>
 </playground>
