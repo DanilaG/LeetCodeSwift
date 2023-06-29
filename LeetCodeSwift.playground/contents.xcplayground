@@ -149,5 +149,7 @@
         <page name='2114. Maximum Number of Words Found in Sentences'/>
         <page name='1051. Height Checker '/>
         <page name='1365. How Many Numbers Are Smaller Than the Current Number'/>
+        <page name='461. Hamming Distance'/>
+        <page name='883. Projection Area of 3D Shapes'/>
     </pages>
 </playground>
