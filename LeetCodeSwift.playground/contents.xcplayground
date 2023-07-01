@@ -151,5 +151,7 @@
         <page name='1365. How Many Numbers Are Smaller Than the Current Number'/>
         <page name='461. Hamming Distance'/>
         <page name='883. Projection Area of 3D Shapes'/>
+        <page name='344. Reverse String'/>
+        <page name='101. Symmetric Tree'/>
     </pages>
 </playground>
