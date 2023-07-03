@@ -153,5 +153,7 @@
         <page name='883. Projection Area of 3D Shapes'/>
         <page name='344. Reverse String'/>
         <page name='101. Symmetric Tree'/>
+        <page name='88. Merge Sorted Array'/>
+        <page name='389. Find the Difference'/>
     </pages>
 </playground>
