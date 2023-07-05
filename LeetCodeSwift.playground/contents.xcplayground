@@ -155,5 +155,7 @@
         <page name='101. Symmetric Tree'/>
         <page name='88. Merge Sorted Array'/>
         <page name='389. Find the Difference'/>
+        <page name='766. Toeplitz Matrix'/>
+        <page name='504. Base 7'/>
     </pages>
 </playground>
