@@ -157,5 +157,6 @@
         <page name='389. Find the Difference'/>
         <page name='766. Toeplitz Matrix'/>
         <page name='504. Base 7'/>
+        <page name='506. Relative Ranks'/>
     </pages>
 </playground>
