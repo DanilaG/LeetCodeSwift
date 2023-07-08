@@ -158,5 +158,7 @@
         <page name='766. Toeplitz Matrix'/>
         <page name='504. Base 7'/>
         <page name='506. Relative Ranks'/>
+        <page name='933. Number of Recent Calls'/>
+        <page name='2024. Maximize the Confusion of an Exam'/>
     </pages>
 </playground>
