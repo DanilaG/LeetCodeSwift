@@ -268,5 +268,17 @@
         <page name='2859. Sum of Values at Indices With K Set Bits'/>
         <page name='2870. Minimum Number of Operations to Make Array Empty'/>
         <page name='2225. Find Players With Zero or One Losses'/>
+        <page name='198. House Robber'/>
+        <page name='380. Insert Delete GetRandom O(1)'/>
+        <page name='576. Out of Boundary Paths'/>
+        <page name='629. K Inverse Pairs Array'/>
+        <page name='645. Set Mismatch'/>
+        <page name='907. Sum of Subarray Minimums'/>
+        <page name='931. Minimum Falling Path Sum'/>
+        <page name='1074. Number of Submatrices That Sum to Target'/>
+        <page name='1207. Unique Number of Occurrences'/>
+        <page name='1239. Maximum Length of a Concatenated String with Unique Characters'/>
+        <page name='Untitled Page'/>
+        <page name='1457. Pseudo-Palindromic Paths in a Binary Tree'/>
     </pages>
 </playground>
